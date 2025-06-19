@@ -53,7 +53,6 @@ const App = () => {
       const response = await fetch(endpoint, API_OPTIONS);
       const data = await response.json();
 
-      // Filter results manually for rating and genre
       const filtered = (data.results || []).filter((movie) => {
         const matchesRating = movie.vote_average >= parseFloat(minRating);
         const matchesGenre = selectedGenre
