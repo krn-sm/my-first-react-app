@@ -21,6 +21,12 @@ A sleek and powerful movie discovery app built with **React + Vite**, allowing u
 - 📺 **Where to Watch** — Shows streaming platforms (like Netflix, Prime)  
 - 🧾 **Movie Info Cards** — Ratings, release date, language
 
+## Screenshots
+
+![Screenshot1](./src/assets/Screenshot%202025-06-19%20125958.png)
+![Screenshot2](./src/assets/Screenshot%202025-06-19%20131501.png)
+![Screenshot3](./src/assets/Screenshot%202025-06-19%20130116.png)
+
 ## 🧪 Development
 
 ```bash
