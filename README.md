@@ -10,7 +10,7 @@ A sleek React + Vite-based app to search and discover popular movies using the T
 - 🍿 TMDB API
 - 🔒 Appwrite
 - 📦 Deployed on Netlify
-- 
+  
 ## 🔧 Features
 
 - 🔍 Search for movies in real-time
